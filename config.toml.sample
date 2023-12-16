@@ -1,0 +1,8 @@
+[audiobookshelf]
+host = "https://foo.de"
+username = 'hans'
+password = 'dampf'
+
+[sync]
+duration = 3600
+target_dir = "./test/"
