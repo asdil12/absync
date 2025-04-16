@@ -1,3 +1,6 @@
+> [!WARNING]
+> Moved to https://codeberg.org/asdil12/absync
+
 # absync
 
 This tool can be used to sync an audiobook from audiobookshelf to an mp3 player.
